@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resorces\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Resorces\Scripts\Player.cs" Line="277" Column="38" />
+      <File FileName="Assets\Resorces\Scripts\powerUps.cs" Line="12" Column="6" />
+      <File FileName="Assets\Resorces\Scripts\coffinTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resorces\Scripts\createCoffin.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
